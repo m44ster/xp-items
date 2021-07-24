@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "xp_items:compressed_xp_orb"
+    }
+  },
+  "result": {
+    "item": "xp_items:double_compressed_xp_orb"
+  }
+}
+

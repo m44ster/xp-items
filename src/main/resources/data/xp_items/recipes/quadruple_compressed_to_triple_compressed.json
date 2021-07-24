@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "xp_items:quadruple_compressed_xp_orb"
+    }
+  ],
+  "result":
+  {
+    "item": "xp_items:triple_compressed_xp_orb",
+    "count": 9
+  }
+}
