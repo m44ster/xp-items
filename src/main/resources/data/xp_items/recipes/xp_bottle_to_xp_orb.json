@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "minecraft:experience_bottle"
+    }
+  ],
+  "result":
+  {
+    "item": "xp_items:xp_orb",
+    "count": 7
+  }
+}
