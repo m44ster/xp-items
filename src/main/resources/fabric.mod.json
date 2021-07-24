@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Xp Items",
-  "description": "This mod adds an xp-orb item and compressed forms of it",
+  "description": "adds an xp-orb item and compressed forms of it",
   "authors": [
     "M44ster"
   ],
