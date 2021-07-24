@@ -2,7 +2,7 @@
 
 This mod adds items equivalent to 1, 9, 81, 729 and 6561 experience.
 
-To convert them into experience you just need to use them.
+To convert them into experience you just need to use(right click) them.
 
 Its meant to be for other mods and modpacks and not really useful at its own.
 
