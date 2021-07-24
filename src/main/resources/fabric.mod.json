@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Xp Items",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "This mod adds an xp-orb item and compressed forms of it",
   "authors": [
     "M44ster"
   ],
@@ -31,6 +31,5 @@
     "java": ">=16"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }
